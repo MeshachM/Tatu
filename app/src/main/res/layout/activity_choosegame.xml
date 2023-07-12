@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/decidebutton"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/choosegam"
+    tools:context=".ChooseGameActivity">
+
+    <TableRow
+        android:layout_marginTop="100pt"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/simplebtn"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:background="@drawable/costumsimplebtn"
+            android:text="Simple"
+            android:textColor="@color/colorPlayer1" />
+    </TableRow>
+
+
+
+    <TableRow
+        android:layout_marginTop="20pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3pt"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/complexbtn"
+            android:layout_width="120pt"
+            android:layout_height="70dp"
+            android:background="@drawable/costumcomplexbtn"
+            android:text="Complex"
+            android:textColor="@color/colorPlayer1" />
+    </TableRow>
+
+
+</TableLayout>
+
+
+
+

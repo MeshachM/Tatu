@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169999962979",
+    "firebase_url": "https://tatu-25ffd.firebaseio.com",
+    "project_id": "tatu-25ffd",
+    "storage_bucket": "tatu-25ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169999962979:android:3630c4cb688650f21f7956",
+        "android_client_info": {
+          "package_name": "com.mparee.bakibz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169999962979-5gkr5tpe4fp62h85ov5lsfihdcamdc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1bG5nun9Awe7BWp8gE8QVyce1JmHgY5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169999962979-5gkr5tpe4fp62h85ov5lsfihdcamdc08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
